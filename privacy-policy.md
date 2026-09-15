@@ -43,7 +43,7 @@ The Karri Service is designed for children aged approximately 7 to 12 years old.
 
 ### 1.3 Account creation and payment verification
 
-1.3.1 To enable a Karri Messenger device to work on the Karri platform,  the account holder is required to complete a payment step processed through One of our payment providers. This payment step serves as a verification measure to ensure that account setup is carried out by an adult who is capable of entering into a legally binding contract and making a financial transaction.
+1.3.1 To enable a Karri Messenger device to work on the Karri platform,  the account holder is required to complete a payment step processed through one of our payment providers. This payment step serves as a verification measure to ensure that account setup is carried out by an adult who is capable of entering into a legally binding contract and making a financial transaction.
 
 1.3.2 No Karri Messenger devices can be enabled on the platform without completing this payment step.
 
