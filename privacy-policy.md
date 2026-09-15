@@ -69,18 +69,18 @@ When you create an account and purchase a Karri device or membership, we collect
 
 2.1.1 your name;
 
-2.1.1 your email address;
+2.1.2 your email address;
 
-2.1.1 your delivery address;
+2.1.3 your delivery address;
 
-2.1.1 your phone number (if provided);
+2.1.4 your phone number (if provided);
 
-2.1.1 payment information (processed securely by Stripe -- we do not store full
+2.1.5 payment information (processed securely by Stripe -- we do not store full
 payment card details);
 
-2.1.1 membership and subscription details, including plan type, billing frequency, and renewal status; and
+2.1.6 membership and subscription details, including plan type, billing frequency, and renewal status; and
 
-2.1.1 name or nickname you assign to the child's device.
+2.1.7 name or nickname you assign to the child's device.
 
 ### 2.2 Usage and device data
 
@@ -88,13 +88,13 @@ When you use the Karri app or website, we may collect:
 
 2.2.1 your IP address;
 
-2.2.1 device information, including device model, operating system, and app version;
+2.2.2 device information, including device model, operating system, and app version;
 
-2.2.1 browser type and settings;
+2.2.3 browser type and settings;
 
-2.2.1 log data, including access times, pages or screens viewed, and interactions; and
+2.2.4 log data, including access times, pages or screens viewed, and interactions; and
 
-2.2.1 app usage events and analytics data (see Section 3 on Analytics).
+2.2.5 app usage events and analytics data (see Section 3 on Analytics).
 
 ### 2.3 Communications data
 
