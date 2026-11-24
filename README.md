@@ -11,7 +11,7 @@ To ensure complete transparency, we maintain our legal policies in this public r
 ## Repository Structure
 
 * `privacy-policy.md` - Details how we collect, store, and protect user data.
-* *(Future documents, such as Terms and Conditions, will be added here)*
+* `terms-and-conditions.md` - Details the basis on which Karri.io Ltd provides its services.
 
 ## Contributions and Contact
 
